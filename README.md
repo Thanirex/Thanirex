@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Thaneesh Varma
-- 👀 I’m interested in computer science, artificial intelligence, and software development.
-- 🌱 I’m currently learning machine learning, deep learning and data science.
-- 💞️ I’m looking to collaborate on open-source projects related to natural language processing, and many more.
-- 📫 How to reach me: [varmathaneesh@gmail.com]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid hiker and have climbed several peaks in my region.
+🚀 About Me
+Hi, I’m Thaneesh Varma (aka Thanirex), a passionate developer from Hyderabad, India. I have a keen interest in Computer Science, Artificial Intelligence, and Software Development. I'm diving deep into Machine Learning, Deep Learning, and Data Science, aiming to contribute to impactful open-source projects.
 
-<!---
-Thanirex/Thanirex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Projects & Contributions
+teluguOCR: A Python-based Optical Character Recognition tool tailored for Telugu script, facilitating text recognition from images.
+
+telugu_webscrapping: A Jupyter Notebook project focused on web scraping Telugu news articles, aiding in data collection for NLP tasks.
+
+Thanirex.github.io: My website showcasing projects, blogs, and more.
+
+🤝 Let's Collaborate
+I'm eager to collaborate on open-source projects, especially those related to Natural Language Processing, Computer Vision, and AI-driven applications. If you have an exciting project or idea, feel free to reach out!
+
+📫 Email: varmathaneesh@gmail.com
+
+🌱 Fun Fact
+When I'm not coding, you'll find me exploring the great outdoors. I'm an avid hiker and have conquered several peaks in my region.
