@@ -38,87 +38,25 @@ When I'm not training models or debugging code, you'll find me behind a camera, 
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
+## 🛠️ Skills and Tools
 
 <div align="center">
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
-</details>
-
-<details open>
-<summary><b>🤖 AI/ML Frameworks</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-</div>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Infrastructure</b></summary>
-<br>
-
-<div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</div>
-</details>
-
-<details open>
-<summary><b>🛠️ Development Tools</b></summary>
-<br>
-
-<div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
-</details>
-
-<details open>
-<summary><b>🎨 Creative Tools</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-</div>
-</details>
-
----
-
-## 💪 Skills Proficiency
-
-<div align="center">
-
-### Core Competencies
-
-| Domain | Technologies | Proficiency |
-|--------|-------------|------------|
-| **AI/ML** | TensorFlow, LangChain, Computer Vision, NLP | ![95%](https://progress-bar.dev/95?title=Expert&width=120) |
-| **Python Development** | Python, Jupyter, FastAPI, Flask | ![90%](https://progress-bar.dev/90?title=Advanced&width=120) |
-| **Cloud & DevOps** | Docker, GCP, Linux, Git | ![85%](https://progress-bar.dev/85?title=Advanced&width=120) |
-| **Web Development** | Node.js, HTML, CSS, JavaScript | ![80%](https://progress-bar.dev/80?title=Proficient&width=120) |
-| **Creative Tools** | Film Editing, VFX, 3D Modeling | ![75%](https://progress-bar.dev/75?title=Proficient&width=120) |
-
+  
 </div>
 
 ---
@@ -155,33 +93,6 @@ When I'm not training models or debugging code, you'll find me behind a camera, 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanirex&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF" alt="Contribution Graph" />
 </div>
-
----
-
-## 🎯 Current Projects & Interests
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🤖 AI & Machine Learning</h3>
-      <p>
-        • Computer Vision for Film Analysis<br>
-        • Person Re-identification Systems<br>
-        • RAG-based AI Companions<br>
-        • Conversational AI Applications
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎬 Creative Tech</h3>
-      <p>
-        • AI-powered Video Editing Tools<br>
-        • Automated Cinematography<br>
-        • Story Generation with LLMs<br>
-        • Visual Effects Automation
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
